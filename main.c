@@ -2,8 +2,9 @@
 
 int main()
 {
-  int x = 5;
-  printf("%d", x*x);
+  char* message = "Hello, Github!";
+  
+  puts(message);
   
   return 0;
 }

@@ -28,3 +28,4 @@
   git commit -m "..."
   git push
   - 해당 작업은 update.bat으로 자동화 해놓았다.
+  - git bash에서 실행할 때는 ./update.bat "" 형식으로 call해야 함.

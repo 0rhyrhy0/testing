@@ -2,7 +2,7 @@
 
 int main()
 {
-  char* message = "Hello, Github!";
+  char* message = "Hello, Github!"; int x;
   
   puts(message);
   
